@@ -1,0 +1,15 @@
+{
+  "id": "com.usbplayer.app",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "USB Player",
+  "appDescription": "VLC-style media player for USB and external drives (videos, music, photos).",
+  "iconUri": "https://raw.githubusercontent.com/vk0595142-maker/Web-repo/main/icon.png",
+  "sourceUrl": "https://github.com/vk0595142-maker/Web-repo",
+  "rootRequired": false,
+  "ipkUrl": "https://raw.githubusercontent.com/vk0595142-maker/Web-repo/main/com.usbplayer.app_1.0.0_all.ipk",
+  "ipkSize": 10788,
+  "ipkHash": {
+    "sha256": "b585c8959735de34012d8f95ca943f1290edb907223592519b08e2868b2ae659"
+  }
+}

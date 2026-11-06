@@ -1,0 +1,13 @@
+{
+  "packages": [
+    {
+      "id": "com.usbplayer.app",
+      "title": "USB Player",
+      "iconUri": "https://raw.githubusercontent.com/vk0595142-maker/Web-repo/main/icon.png",
+      "category": "utility",
+      "pool": "main",
+      "shortDescription": "VLC-style media player for USB and external drives",
+      "manifestUrl": "https://raw.githubusercontent.com/vk0595142-maker/Web-repo/main/com.usbplayer.app.json"
+    }
+  ]
+}
